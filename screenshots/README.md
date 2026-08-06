@@ -6,3 +6,4 @@ Place screenshots of the running Streamlit app here, for example:
 - `app_prediction.png` — the app showing a prediction result
 
 Referenced from the main `README.md`.
+![alt text](image.png)
