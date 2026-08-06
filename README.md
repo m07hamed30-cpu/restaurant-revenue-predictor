@@ -166,7 +166,6 @@ See [`docs/PROJECT_EXPLANATION.md`](docs/PROJECT_EXPLANATION.md) §28 for the fu
 
 ## 👤 Author
 
-## 👤 Author
 
 **Mohamed Sobhy Salah** — [GitHub](https://github.com/m07hamed30-cpu)
 
