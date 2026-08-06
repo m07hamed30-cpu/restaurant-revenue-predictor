@@ -166,7 +166,11 @@ See [`docs/PROJECT_EXPLANATION.md`](docs/PROJECT_EXPLANATION.md) §28 for the fu
 
 ## 👤 Author
 
-Maintained by the project author. Contributions welcome — see [`CONTRIBUTING.md`](CONTRIBUTING.md).
+## 👤 Author
+
+**Mohamed Sobhy Salah** — [GitHub](https://github.com/m07hamed30-cpu)
+
+Contributions welcome — see [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
 ## 📄 License
 
